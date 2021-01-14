@@ -1,0 +1,1 @@
+## A good dive into Sequelize setting & querying
